@@ -281,17 +281,18 @@ a.ah3:hover {
 
 .btnSmer {
   background: #F6F7D3;
-  background-image: -webkit-linear-gradient(top, #f7e2d5, #F6F7D3);
-  background-image: -moz-linear-gradient(top, #f7e2d5, #F6F7D3);
-  background-image: -ms-linear-gradient(top, #f7e2d5, #F6F7D3);
-  background-image: -o-linear-gradient(top, #f7e2d5, #F6F7D3);
-  background-image: linear-gradient(to bottom, #f7e2d5, #F6F7D3);
+  background-image: -webkit-linear-gradient(top, #F6F7D3, #222831);
+  background-image: -moz-linear-gradient(top, #F6F7D3, #222831);
+  background-image: -ms-linear-gradient(top, #F6F7D3, #222831);
+  background-image: -o-linear-gradient(top, #F6F7D3, #222831);
+  background-image: linear-gradient(to bottom, #F6F7D3, #222831);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
   /*9. menjam font na dugmetu*/
-  font-size: 0.5rem;
+  font-size: 1.5rem;
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
   color: #1b1717;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
